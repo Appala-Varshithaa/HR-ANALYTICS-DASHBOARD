@@ -126,14 +126,11 @@ Data was cleaned and transformed using **Power Query** by:
 ```
 HR-Analytics-Dashboard/
 │
-├── HR Analytics Dashboard.pbix
+├── HR Analytics.png
 ├── README.md
 ├── requirements.txt
 ├── dataset/
 │   └── HR_Analytics.csv
-├── screenshots/
-│   └── dashboard.png
-└── .gitignore
 ```
 
 ---
